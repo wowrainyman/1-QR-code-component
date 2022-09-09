@@ -22,7 +22,7 @@ body {
   align-items: center;
 }
 
-.card {
+main {
   margin: auto;
   display: flex;
   flex-direction: column;
@@ -32,19 +32,19 @@ body {
   border-radius: 1rem;
 }
 
-.card img {
+main img {
   height: auto;
   border-radius: 1rem;
 }
 
-.card span {
+main h1 {
   text-align: center;
   display: block;
   font-weight: 700;
   font-size: 1.6rem;
   margin: 1.2rem 0.2rem;
 }
-.card span span {
+main h1 span {
   margin: 1.2rem 0.2rem;
   text-align: center;
   display: block;
